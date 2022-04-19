@@ -561,9 +561,10 @@ img {
 }
 
 .qualification__button {
-    font-size: var(--h4-font-size);
+    font-size: var(--h6-font-size);
     font-weight: var(--font-medium);
-    cursor: pointer
+    cursor: pointer;
+    padding: 0.6rem;
 }
 
 .qualification__button:hover {
